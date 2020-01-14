@@ -1,0 +1,11 @@
+C:\Users\kwasc\source\repos\dekorator\dekorator\bin\Debug\netcoreapp3.0\dekorator.exe
+C:\Users\kwasc\source\repos\dekorator\dekorator\bin\Debug\netcoreapp3.0\dekorator.deps.json
+C:\Users\kwasc\source\repos\dekorator\dekorator\bin\Debug\netcoreapp3.0\dekorator.runtimeconfig.json
+C:\Users\kwasc\source\repos\dekorator\dekorator\bin\Debug\netcoreapp3.0\dekorator.runtimeconfig.dev.json
+C:\Users\kwasc\source\repos\dekorator\dekorator\bin\Debug\netcoreapp3.0\dekorator.dll
+C:\Users\kwasc\source\repos\dekorator\dekorator\bin\Debug\netcoreapp3.0\dekorator.pdb
+C:\Users\kwasc\source\repos\dekorator\dekorator\obj\Debug\netcoreapp3.0\dekorator.csprojAssemblyReference.cache
+C:\Users\kwasc\source\repos\dekorator\dekorator\obj\Debug\netcoreapp3.0\dekorator.AssemblyInfoInputs.cache
+C:\Users\kwasc\source\repos\dekorator\dekorator\obj\Debug\netcoreapp3.0\dekorator.AssemblyInfo.cs
+C:\Users\kwasc\source\repos\dekorator\dekorator\obj\Debug\netcoreapp3.0\dekorator.dll
+C:\Users\kwasc\source\repos\dekorator\dekorator\obj\Debug\netcoreapp3.0\dekorator.pdb
