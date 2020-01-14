@@ -1,0 +1,11 @@
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\bin\Debug\netcoreapp3.0\kebabBudka.exe
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\bin\Debug\netcoreapp3.0\kebabBudka.deps.json
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\bin\Debug\netcoreapp3.0\kebabBudka.runtimeconfig.json
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\bin\Debug\netcoreapp3.0\kebabBudka.runtimeconfig.dev.json
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\bin\Debug\netcoreapp3.0\kebabBudka.dll
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\bin\Debug\netcoreapp3.0\kebabBudka.pdb
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\obj\Debug\netcoreapp3.0\kebabBudka.csprojAssemblyReference.cache
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\obj\Debug\netcoreapp3.0\kebabBudka.AssemblyInfoInputs.cache
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\obj\Debug\netcoreapp3.0\kebabBudka.AssemblyInfo.cs
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\obj\Debug\netcoreapp3.0\kebabBudka.dll
+C:\Users\kwasc\source\repos\kebabBudka\kebabBudka\obj\Debug\netcoreapp3.0\kebabBudka.pdb
