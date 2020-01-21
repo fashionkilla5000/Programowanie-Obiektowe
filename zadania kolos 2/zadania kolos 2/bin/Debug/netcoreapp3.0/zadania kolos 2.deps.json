@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "zadania kolos 2/1.0.0": {
+        "runtime": {
+          "zadania kolos 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadania kolos 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

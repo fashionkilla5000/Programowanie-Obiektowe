@@ -1,0 +1,11 @@
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\bin\Debug\netcoreapp3.0\zadania kolos 2.exe
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\bin\Debug\netcoreapp3.0\zadania kolos 2.deps.json
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\bin\Debug\netcoreapp3.0\zadania kolos 2.runtimeconfig.json
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\bin\Debug\netcoreapp3.0\zadania kolos 2.runtimeconfig.dev.json
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\bin\Debug\netcoreapp3.0\zadania kolos 2.dll
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\bin\Debug\netcoreapp3.0\zadania kolos 2.pdb
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\obj\Debug\netcoreapp3.0\zadania kolos 2.csprojAssemblyReference.cache
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\obj\Debug\netcoreapp3.0\zadania kolos 2.AssemblyInfoInputs.cache
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\obj\Debug\netcoreapp3.0\zadania kolos 2.AssemblyInfo.cs
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\obj\Debug\netcoreapp3.0\zadania kolos 2.dll
+C:\Users\kwasc\source\repos\zadania kolos 2\zadania kolos 2\obj\Debug\netcoreapp3.0\zadania kolos 2.pdb
