@@ -1,0 +1,11 @@
+C:\Users\kwasc\source\repos\Testy\Testy\obj\Debug\netcoreapp3.0\Testy.csprojAssemblyReference.cache
+C:\Users\kwasc\source\repos\Testy\Testy\obj\Debug\netcoreapp3.0\Testy.AssemblyInfoInputs.cache
+C:\Users\kwasc\source\repos\Testy\Testy\obj\Debug\netcoreapp3.0\Testy.AssemblyInfo.cs
+C:\Users\kwasc\source\repos\Testy\Testy\bin\Debug\netcoreapp3.0\Testy.exe
+C:\Users\kwasc\source\repos\Testy\Testy\bin\Debug\netcoreapp3.0\Testy.deps.json
+C:\Users\kwasc\source\repos\Testy\Testy\bin\Debug\netcoreapp3.0\Testy.runtimeconfig.json
+C:\Users\kwasc\source\repos\Testy\Testy\bin\Debug\netcoreapp3.0\Testy.runtimeconfig.dev.json
+C:\Users\kwasc\source\repos\Testy\Testy\bin\Debug\netcoreapp3.0\Testy.dll
+C:\Users\kwasc\source\repos\Testy\Testy\bin\Debug\netcoreapp3.0\Testy.pdb
+C:\Users\kwasc\source\repos\Testy\Testy\obj\Debug\netcoreapp3.0\Testy.dll
+C:\Users\kwasc\source\repos\Testy\Testy\obj\Debug\netcoreapp3.0\Testy.pdb
